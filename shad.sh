@@ -1,7 +1,8 @@
 echo "shad-jameel-ahmed"
 cal
 date
-time
+pwd
+top
 sudo touch file
 sudo mkdir dir
 echo "shad"
